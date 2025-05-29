@@ -12,12 +12,3 @@ This project explores classical machine learning approaches for handwritten digi
 - **Performance Evaluation**: Measured precision, recall, F1-score, and visualized confusion matrices and heatmaps.
 - **Overfitting Control**: Investigated pre-pruning techniques to optimize tree depth and avoid overfitting.
 
-##  Techniques Used
-
-- Sobel Filter
-- HOG
-- PCA
-- Decision Tree (with pruning & hyperparameter tuning)
-- Support Vector Machine (SVM)
-- K-Fold Cross Validation
-- Confusion Matrix & Heatmaps
